@@ -11,5 +11,5 @@ iOS 10
 开发简介:
 [http://www.eyrefree.org/2016/11/24/2016-11-24-Coding-Emoji/](http://www.eyrefree.org/2016/11/24/2016-11-24-Coding-Emoji/)
 
-AppStore:
+下载试用:
 [https://itunes.apple.com/cn/app/yang-cong-hou-biao-qing-bao/id1166254758?mt=8](https://itunes.apple.com/cn/app/yang-cong-hou-biao-qing-bao/id1166254758?mt=8)
