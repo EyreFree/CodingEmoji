@@ -1,6 +1,6 @@
 # CodingEmoji
 
-CodingEmoji 是一款使用 iMessageApp 表情包应用，详情参见：  
+CodingEmoji 是一款 iMessageApp 表情包应用，详情参见：  
 [http://www.eyrefree.org/2016/11/24/2016-11-24-Coding-Emoji/](http://www.eyrefree.org/2016/11/24/2016-11-24-Coding-Emoji/)
 
 ### AppStore
