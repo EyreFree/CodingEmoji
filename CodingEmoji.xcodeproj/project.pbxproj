@@ -319,6 +319,7 @@
 				12D42AA31DB5212A00A3CCC6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		12D42AA51DB5212A00A3CCC6 /* Build configuration list for PBXNativeTarget "CodingEmoji" */ = {
 			isa = XCConfigurationList;
@@ -327,6 +328,7 @@
 				12D42AA71DB5212A00A3CCC6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
