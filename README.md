@@ -16,9 +16,9 @@ CodingEmoji 是一款表情包应用，在最近更新的 iOS 10 系统中，苹
 
 - iOS 10+
 
-### 开发过程
+### 详细介绍
 
-[http://www.eyrefree.org/2016/11/24/2016-11-24-Coding-Emoji/](http://www.eyrefree.org/2016/11/24/2016-11-24-Coding-Emoji/)
+参见：[http://www.eyrefree.org/2016/11/24/2016-11-24-Coding-Emoji/](http://www.eyrefree.org/2016/11/24/2016-11-24-Coding-Emoji/)
 
 ### 预览
 
