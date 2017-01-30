@@ -23,3 +23,11 @@ CodingEmoji 是一款表情包应用，在最近更新的 iOS 10 系统中，苹
 ### 预览
 
 ![](Images/S_2048_2732.png)
+
+## 作者
+
+EyreFree, eyrefree@eyrefree.org
+
+## 协议
+
+CodingEmoji is available under the MIT license. See the LICENSE file for more info.
