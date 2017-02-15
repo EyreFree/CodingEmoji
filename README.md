@@ -30,4 +30,4 @@ EyreFree, eyrefree@eyrefree.org
 
 ## 协议
 
-CodingEmoji is available under the MIT license. See the LICENSE file for more info.
+CodingEmoji 基于 MIT 协议进行分发和使用，更多信息参见协议文件。
